@@ -10,5 +10,5 @@ echo 'frontendmaster.me' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:sajjad-ghaffar/sajjad-ghaffar.github.io.git master:gh-pages
+git push -f https://github.com/sajjad-ghaffar/sajjad-ghaffar.github.io.git master:gh-pages
 cd -
