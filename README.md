@@ -1,4 +1,4 @@
-# frontend-master
+# frontend-master (vue 2)
 
 ## Project setup
 ```
