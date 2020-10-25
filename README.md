@@ -1,4 +1,4 @@
-# frontend-master (vue 2 with Axios)
+# frontend-master (vue 2 with Vuetify)
 
 ## Project setup
 ```
